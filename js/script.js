@@ -6,22 +6,22 @@ createApp({
             tasks: [
                 {
                     id: 1,
-                    text: 'testo 1',
+                    text: 'Diventare imperatore del mare',
                     done: false,
                 }, 
                 {
                     id: 2,
-                    text: 'testo 2',
+                    text: 'Sconfiggere Kaido',
                     done: true,
                 }, 
                 {
                     id: 3,
-                    text: 'testo 3',
+                    text: 'Usare nuove tecniche',
                     done: false,
                 },
                 {
                     id: 4,
-                    text: 'testo 4',
+                    text: 'Trovare il One Piece',
                     done: true,
                 },
             ],
