@@ -44,7 +44,7 @@ createApp({
             });
             this.todoText = '';
         },
-        todoInvert(id){
+        markAsDone(id){
             const index = this.getIndex(id, this.tasks)
             this.tasks[index].done = !this.tasks[index].done
         },
