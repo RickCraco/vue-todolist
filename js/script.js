@@ -59,7 +59,7 @@ createApp({
                     return true;
                 } else if(this.filterValue === ''){
                     return true;
-                }
+                } 
             });
         },
     }
